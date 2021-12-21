@@ -1,0 +1,113 @@
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe.config
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\BarkodYemekhane.pdb
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Loglar.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenEkle.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenIstatistikleri.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.SifreDegistir.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciEkle.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Menu.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanelGiris.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanel.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Properties.Resources.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Yukleniyor.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.GenerateResource.cache
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CoreCompileInputs.cache
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.exe
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.pdb
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csprojResolveAssemblyReference.cache
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciSil.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\Bunifu_UI_v1.52.dll
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CopyComplete
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\Interop.WMPLib.dll
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\AxInterop.WMPLib.dll
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\Interop.WMPLib.dll
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\AxInterop.WMPLib.dll
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.ResolveComReference.cache
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExceldenAktar.resources
+C:\Users\ismai\source\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExcelIlerleme_.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe.config
+C:\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe
+C:\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\BarkodYemekhane.pdb
+C:\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\Bunifu_UI_v1.52.dll
+C:\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\Interop.WMPLib.dll
+C:\repos\BarkodYemekhane\BarkodYemekhane\bin\Sql\AxInterop.WMPLib.dll
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csprojAssemblyReference.cache
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\Interop.WMPLib.dll
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\AxInterop.WMPLib.dll
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.ResolveComReference.cache
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExceldenAktar.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExcelIlerleme_.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Loglar.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciSil.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenEkle.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenIstatistikleri.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.SifreDegistir.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciEkle.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Menu.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanelGiris.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanel.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Properties.Resources.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.Yukleniyor.resources
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.GenerateResource.cache
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CoreCompileInputs.cache
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CopyComplete
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.exe
+C:\repos\BarkodYemekhane\BarkodYemekhane\obj\Sql\BarkodYemekhane.pdb
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe.config
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\BarkodYemekhane.pdb
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\Bunifu_UI_v1.52.dll
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\Interop.WMPLib.dll
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\AxInterop.WMPLib.dll
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csprojAssemblyReference.cache
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\Interop.WMPLib.dll
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\AxInterop.WMPLib.dll
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.ResolveComReference.cache
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExceldenAktar.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExcelIlerleme_.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Loglar.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciSil.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenEkle.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenIstatistikleri.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.SifreDegistir.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciEkle.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Menu.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanelGiris.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanel.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Properties.Resources.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Yukleniyor.resources
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.GenerateResource.cache
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CoreCompileInputs.cache
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CopyComplete
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.exe
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.pdb
+C:\repos\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\Interop.ADOX.dll
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe.config
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\BarkodYemekhane.exe
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\BarkodYemekhane.pdb
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\Interop.WMPLib.dll
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\bin\Sql\AxInterop.WMPLib.dll
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csprojAssemblyReference.cache
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\Interop.ADOX.dll
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\Interop.WMPLib.dll
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\AxInterop.WMPLib.dll
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.ResolveComReference.cache
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExceldenAktar.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.ExcelIlerleme_.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Loglar.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciSil.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenEkle.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgretmenIstatistikleri.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.SifreDegistir.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.OgrenciEkle.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Menu.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanelGiris.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.AdminPanel.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Properties.Resources.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.Yukleniyor.resources
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.GenerateResource.cache
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CoreCompileInputs.cache
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.csproj.CopyComplete
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.exe
+C:\Users\Torchizm\Desktop\BarkodYemekhane Access\BarkodYemekhane\obj\Sql\BarkodYemekhane.pdb
